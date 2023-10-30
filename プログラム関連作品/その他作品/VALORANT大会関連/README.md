@@ -18,6 +18,23 @@ Discord上で決まった内容はKOSENationGaming独自のAPIであるValwind-A
 
 なお、じゃんけんの進行状況はローカルのデータベース(MySQL)に保存されるため、万が一進行が停止しても復帰することが可能となっております。
 
+#### 動作
+
+メインチャンネル上でのBotによるメッセージ
+![image1](https://github.com/UnknownSP/Portfolio/assets/39638661/92be2fb2-8c63-4286-ba7d-ada92b50ddd6)
+
+Botとのダイレクトメッセージにてじゃんけんの手をだし、その結果からピックを行っていく。各ピックはメッセージのリアクションボタンを押下することで決定する。
+![Image2-1](https://github.com/UnknownSP/Portfolio/assets/39638661/dca27c31-d770-4304-8fe5-f61a1ba87560)
+![Image2-2](https://github.com/UnknownSP/Portfolio/assets/39638661/605c387a-e178-43dd-a01b-df65c6761dd2)
+![Image2-3](https://github.com/UnknownSP/Portfolio/assets/39638661/3ba6086d-df99-4396-99d3-920ed73e0ccb)
+
 ### Overlay
 
 [VALORANT](https://playvalorant.com/ja-jp/)公式大会のようにチームメンバーの体力等の情報をオーバーレイするためのものになります。
+
+#### 動作
+
+https://github.com/UnknownSP/Portfolio/assets/39638661/4d4fae9d-6e7b-4994-b797-29822552650b
+
+
+
