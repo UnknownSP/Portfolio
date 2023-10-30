@@ -21,9 +21,11 @@ Discord上で決まった内容はKOSENationGaming独自のAPIであるValwind-A
 #### 動作
 
 メインチャンネル上でのBotによるメッセージ
+
 ![image1](https://github.com/UnknownSP/Portfolio/assets/39638661/92be2fb2-8c63-4286-ba7d-ada92b50ddd6)
 
 Botとのダイレクトメッセージにてじゃんけんの手をだし、その結果からピックを行っていく。各ピックはメッセージのリアクションボタンを押下することで決定する。
+
 ![Image2-1](https://github.com/UnknownSP/Portfolio/assets/39638661/dca27c31-d770-4304-8fe5-f61a1ba87560)
 ![Image2-2](https://github.com/UnknownSP/Portfolio/assets/39638661/605c387a-e178-43dd-a01b-df65c6761dd2)
 ![Image2-3](https://github.com/UnknownSP/Portfolio/assets/39638661/3ba6086d-df99-4396-99d3-920ed73e0ccb)
