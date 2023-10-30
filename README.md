@@ -17,3 +17,18 @@
 - [KAZAAAN_遠隔操作用サーバ](https://github.com/UnknownSP/MedalGame_RemoteControlServer)
 
 - [KAZAAAN_遠隔操作用クライアント](https://github.com/UnknownSP/MedalGame_RemoteControlClient)
+
+### 動作
+
+https://github.com/UnknownSP/Portfolio/assets/39638661/167d1e2a-a2b4-49bd-8f9d-fa2eee022441
+
+遠隔操作による球の発射やテストモードも実装中
+
+https://github.com/UnknownSP/Portfolio/assets/39638661/9211ae67-bd33-4f4a-bd92-4b825e17e4e0
+
+https://github.com/UnknownSP/Portfolio/assets/39638661/5889b35c-5518-4b1a-96ab-18b1d95d8d84
+
+
+
+
+
