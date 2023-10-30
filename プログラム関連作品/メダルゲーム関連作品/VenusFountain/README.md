@@ -23,6 +23,7 @@ Unityからの操作はstm32f401がPCからシリアル通信でデータを受�
 - 抽選の一連の流れ
 
 https://github.com/UnknownSP/Portfolio/assets/39638661/f9584d45-9051-4f80-be73-c1ab64e49cfa
+
 https://github.com/UnknownSP/Portfolio/assets/39638661/4743d7d3-cfec-4abf-85e3-48f789edde93
 
 - 開発時の動作
